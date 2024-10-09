@@ -9,6 +9,7 @@ Bem-vindo ao ToDoList! Este é um projeto de gerenciamento de tarefas utilizando
 ## Funcionalidades:
 
 - Criar Tarefas;
+- Pesquisar Tarefas;
 - Visualizar tarefas nas categorias: Pendentes, Concluídas e Favoritas;
 - Visualizar descrição das tarefas;
 - Navegação entre telas de apresentação e modos de visualização das tarefas.
